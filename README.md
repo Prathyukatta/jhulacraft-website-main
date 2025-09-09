@@ -242,3 +242,5 @@ Each category now contains **12 unique products** (108 total products):
 - **Category Switching**: Automatically resets to paginated view when changing categories
 - **Product Count Display**: Shows "X of Y results" for better user experience
 - **WhatsApp Integration**: Each product has direct WhatsApp ordering (+919757643643)
+#   j h u l a c r a f t - w e b s i t e - m a i n  
+ 
