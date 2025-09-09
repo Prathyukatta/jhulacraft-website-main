@@ -1,0 +1,23 @@
+# ✅ Allow Googlebot
+User-agent: Googlebot
+Allow: /
+
+# ✅ Allow Bingbot
+User-agent: Bingbot
+Allow: /
+
+# ✅ Allow Twitterbot (Twitter link previews)
+User-agent: Twitterbot
+Allow: /
+
+# ✅ Allow Facebook crawler (link previews)
+User-agent: facebookexternalhit
+Allow: /
+
+# ✅ Allow all other crawlers
+User-agent: *
+Allow: /
+
+# ✅ Sitemap for faster indexing
+Sitemap: https://jhulacraft.com/sitemap.xml
+
